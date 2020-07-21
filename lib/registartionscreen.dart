@@ -33,9 +33,9 @@ class _RegistrationState extends State<Registration> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 SizedBox(height: 40,),
-            Image.asset('assets/images/connectnew.png',height: 150,width: 220,),
+            Image.asset('assets/images/connect.png',height: 150,width: 220,),
                 SizedBox(height: 10,),
-                Text("Find and Meet people around you.",style: TextStyle(
+                Text("Simple solutions to complex it problems",style: TextStyle(
                     color: Lwhite,fontSize: 10
                 ),),
                 SizedBox(height: 40,),

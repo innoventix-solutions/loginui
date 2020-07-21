@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-const Color Lred = Colors.black;
-const Color Lyeaalow = Colors.red;
+const Color Lred = Colors.red;
+const Color Lyeaalow = Color(0xffFFaa1d);
 const Color joydarkblue= Color(0xff1e2761);
 
 
@@ -39,7 +39,7 @@ class customraisedbutton extends StatelessWidget {
         padding: const EdgeInsets.only(top: 15, bottom: 15),
         child: Row(
           children: <Widget>[
-            Image.asset('assets/images/fb.png',height: 25,width: 25,),
+            Image.asset('assets/images/fb1.png',height: 25,width: 25,),
             Image.asset('assets/images/line.png',height: 25,),
 
             Text(
@@ -77,7 +77,7 @@ class customraisedbutton2 extends StatelessWidget {
         padding: const EdgeInsets.only(top: 15, bottom: 15),
         child: Row(
           children: <Widget>[
-            Image.asset('assets/images/twitter.png',height: 25,width: 25,),
+            Image.asset('assets/images/twi1.png',height: 25,width: 25,),
             Image.asset('assets/images/line.png',height: 25,),
 
             Text(

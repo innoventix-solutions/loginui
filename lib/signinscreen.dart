@@ -32,9 +32,9 @@ class _SigninState extends State<Signin> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   SizedBox(height: 40,),
-                  Image.asset('assets/images/connectnew.png',height: 150,width: 220,),
+                  Image.asset('assets/images/connect.png',height: 150,width: 220,),
                   SizedBox(height: 10,),
-                  Text("Find and Meet people around you.",style: TextStyle(
+                  Text("Simple solutions to complex it problems",style: TextStyle(
                       color: Lwhite,fontSize: 10
                   ),),
                   SizedBox(height: 40,),
@@ -142,7 +142,7 @@ class _SigninState extends State<Signin> {
                       ),
                           child: Padding(
                             padding: const EdgeInsets.all(8.0),
-                            child: Image.asset('assets/images/fb.png',height: 25,width: 25,),
+                            child: Image.asset('assets/images/fb1.png',height: 25,width: 25,),
                           )),
 SizedBox(width: 20,),
                       Card( shape: RoundedRectangleBorder(
@@ -150,7 +150,7 @@ SizedBox(width: 20,),
                       ),
                           child: Padding(
                             padding: const EdgeInsets.all(8.0),
-                            child: Image.asset('assets/images/twitter.png',height: 25,width: 25,),
+                            child: Image.asset('assets/images/twi1.png',height: 25,width: 25,),
                           ))
                     ],
                   ),

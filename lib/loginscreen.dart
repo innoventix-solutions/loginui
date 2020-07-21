@@ -29,9 +29,9 @@ class _LoginscreenState extends State<Loginscreen> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
 
-                Image.asset('assets/images/connectnew.png',height: 150,width: 220,),
+                Image.asset('assets/images/connect.png',height: 100,width: 220,),
                SizedBox(height: 10,),
-               Text("Find and Meet people around you.",style: TextStyle(
+               Text("Simple solutions to complex it problems",style: TextStyle(
                  color: Lwhite,fontSize: 12
                ),),
                SizedBox(height: 40,),
